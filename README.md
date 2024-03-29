@@ -1,4 +1,4 @@
-# notications
+# awesome_notification
 
 A new Flutter project.
 
